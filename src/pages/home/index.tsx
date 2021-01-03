@@ -7,6 +7,7 @@ import React from 'react';
  * #Ultima modificação -> 03/01/2021
  * 
 */
+
 import HomeViewer from '../../components/__home';
 
 const HomePage: React.FC = () => {
